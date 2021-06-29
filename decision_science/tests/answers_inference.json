@@ -1,0 +1,7 @@
+{
+    "MEDIAN_AGE": "The coefficient the MEDIAN_AGE intercept is 2252.7344, meaning this variable has a positive effect on the number of crime incidents.",
+    "T_STAT": "t-statistic, p-value and 95% confidence interval correspond to the null hypothesis. t-statistics is similar to the standard deviation in how it works. The formula is (coef - (P>|t|)) / std err",
+    "P_VALUE": "Proba that what you observed is just due to pure chance. At a 95% confidence level, that proba is 12.8%, which > 5%. We can't reject H0 that states that the median age has no influence.",
+    "INCREASE": "Holding all other regressors constant, when the share of families with a married couple increases by 1 percentage point in the district, the total number of incidents decreases by 2115.1839, on average.",
+    "LIMITATIONS": "The F-statistic appears to be pretty low. Also, theCond. No. of 2.42e+03 is pretty high, which may indicate strong multicolinearity. The dataset is also pretty small, which may mean we would need data from more districts to have confidence in our deductions."
+}
